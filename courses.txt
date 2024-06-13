@@ -1,2 +1,4 @@
 Cybersecurity Program Orientation
 HTML/CSS
+Information Technology Program Orientation
+JavaScript Programming I
